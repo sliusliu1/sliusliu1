@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sliusliu1
-- 👀 I’m interested in becoming entry level full stack web developer and grow myself into software engineer;
-- 🌱 I’m currently learning basic web development knowledge from freecodecamp
-- 💞️ I’m looking to collaborate on different projects on web development. 
-- 📫 How to reach me at email: shirly.liu0712@gmail.com
+- 👀 I’m transitioning from math teaching to actuary field;
+- 🌱 I’m currently learning Python, Excel, VBA
+- 💞️ I’m looking to collaborate on different projects on data analysis. 
+
 
 <!---
 sliusliu1/sliusliu1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
